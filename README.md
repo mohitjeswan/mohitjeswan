@@ -1,9 +1,10 @@
 ## 👋 Hey there! I'm Mohit Jeswani  
 
 ### 🚀 About Me
-- 🎓 **Computer Science Student at VESIT (Class of 2025)**
+- 🚗 Currently working on **CarConnect**
+- 🎓 **Computer Science Student at VESIT**
 - 💻 **Aspiring Full-Stack Developer | Passionate about Tech & Innovation**
-- 📚 Currently exploring **MERN Stack, Data Warehousing, ETL, OLAP, and Data Mining**
+- 📚 Currently exploring **MERN Stack, SQL, Typescript**
 - 🎯 Focused on improving **Communication Skills** and **Problem-Solving**
 
 ### 🛠️ Tech Stack & Skills
